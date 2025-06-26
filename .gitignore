@@ -1,0 +1,7 @@
+# Ignore data and compiled files
+*.pkl
+*.log
+__pycache__/
+*.csv
+.env
+
